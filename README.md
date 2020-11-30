@@ -26,6 +26,8 @@ Solução:
 Quando temos uma interface como referência para dois objetos é possível executar um método que traga um resultado comum para toda a estrutura. 
 Sendo assim, dada a criação de um ou mais objetos associados entre si, o Composite utiliza a interface para retornar todas as operações possíveis.
 
+A figura abaixo representa de maneira mais clara como se comporta a sua estrutura:
+
 ![alt text](https://refactoring.guru/images/patterns/diagrams/composite/structure-pt-br.png)
 
 Consequências: 
