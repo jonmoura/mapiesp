@@ -37,3 +37,5 @@ A primeira vantagem se refere a não preocupação com as classes concretas dos 
 A segunda vantagem é a capacidade de serem acrescentados novos elementos sem quebrar o código atual. 
 Por outro lado, o Composite possui uma grande desvantagem que é a dificuldade de se criar uma interface comum para classes com funcionalidades muito diferentes entre si.
 
+Link de vídeo-explicativo: https://drive.google.com/file/d/1mLZL0SaVYes7eOd4zgp8JSPyvvuwbBcD/view?usp=sharing
+
